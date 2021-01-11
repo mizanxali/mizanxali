@@ -1,6 +1,6 @@
 ### Yo yo yo, I'm Mizan Ali - aka mizanxali! 👋
 
-## I'm a sophomore CS Engineering undergrad at VIT Bhopal University!
+## I'm a sophomore CS Engineering undergrad at VIT Bhopal University, India
 
 - 🎮 I am majoring in Game Development
 - 💻 I am a MEN stack Web Developer and a beginner Android Developer
