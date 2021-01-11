@@ -12,13 +12,11 @@
 ### Connect with me:
 
 [<img align="left" alt="mizanxali | Email" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][email]
-[<img align="left" alt="mizanxali | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 [<img align="left" alt="mizanxali | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="mizanxali | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="mizanxali | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 [email]: mailto:mizanalip786@gmail.com
 [twitter]: https://twitter.com/mizanxali
-[youtube]: https://www.youtube.com/channel/UC2Q5f_ERpGo-wEK_9eP_ipg
 [instagram]: https://instagram.com/mizanxali
 [linkedin]: https://linkedin.com/in/mizanxali
