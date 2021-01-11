@@ -11,10 +11,10 @@
 
 ### Connect with me:
 
-[<img align="left" alt="mizanxali | Email" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][email]
-[<img align="left" alt="mizanxali | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="mizanxali | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="mizanxali | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="mizanxali | Email" width="22px" src="https://edent.github.io/SuperTinyIcons/images/svg/gmail.svg" />][email]
+[<img align="left" alt="mizanxali | Twitter" width="22px" src="https://edent.github.io/SuperTinyIcons/images/svg/twitter.svg" />][twitter]
+[<img align="left" alt="mizanxali | LinkedIn" width="22px" src="https://edent.github.io/SuperTinyIcons/images/svg/linkedin.svg" />][linkedin]
+[<img align="left" alt="mizanxali | Instagram" width="22px" src="https://edent.github.io/SuperTinyIcons/images/svg/instagram.svg" />][instagram]
 
 [email]: mailto:mizanalip786@gmail.com
 [twitter]: https://twitter.com/mizanxali
