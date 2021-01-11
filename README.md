@@ -17,7 +17,7 @@
 [<img align="left" alt="mizanxali | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="mizanxali | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
-[email]: mailto:someone@example.com
+[email]: mailto:mizanalip786@gmail.com
 [twitter]: https://twitter.com/mizanxali
 [youtube]: https://www.youtube.com/channel/UC2Q5f_ERpGo-wEK_9eP_ipg
 [instagram]: https://instagram.com/mizanxali
