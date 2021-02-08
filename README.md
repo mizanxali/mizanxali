@@ -20,3 +20,5 @@
 [twitter]: https://twitter.com/mizanxali
 [instagram]: https://instagram.com/mizanxali
 [linkedin]: https://linkedin.com/in/mizanxali
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mizanxali&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
