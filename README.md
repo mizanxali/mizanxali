@@ -16,9 +16,11 @@
 [<img align="left" alt="mizanxali | LinkedIn" width="22px" src="https://edent.github.io/SuperTinyIcons/images/svg/linkedin.svg" />][linkedin]
 [<img align="left" alt="mizanxali | Instagram" width="22px" src="https://edent.github.io/SuperTinyIcons/images/svg/instagram.svg" />][instagram]
 
+---
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mizanxali&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 [email]: mailto:mizanalip786@gmail.com
 [twitter]: https://twitter.com/mizanxali
 [instagram]: https://instagram.com/mizanxali
 [linkedin]: https://linkedin.com/in/mizanxali
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mizanxali&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
