@@ -4,7 +4,7 @@
 
 - 🎮 I'm majoring in Game Development
 - ⚛️ I'm a MERN stack Web Developer and a beginner Android Developer
-<!-- - ⚡ I’m currently learning Typescript -->
+- ⚡ I’m currently learning Server Side Rendering and Next.js
 - 🥅 2021 Goals: Get proficient at Data Structures and Algorithms and start Competitive Programming
 - ❤️ I love React JS, Cricket, Rap Music, and Game of Thrones, not necessarily in that order
 
