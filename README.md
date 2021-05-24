@@ -4,8 +4,8 @@
 
 - 🎮 I'm majoring in Game Development
 - ⚛️ I'm a MERN stack Web Developer
-- ⚡ I’m currently learning UI/UX design
-- 🥅 2021 Goals: Get proficient at Data Structures and Algorithms and start Competitive Programming
+- ⚡ I’m currently learning Data Structures and Algorithms
+- 🥅 2021 Goals: Start Competitive Programming
 - ❤️ I love React JS, Cricket, Rap Music, and Game of Thrones, not necessarily in that order
 
 
