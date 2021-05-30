@@ -4,7 +4,7 @@
 
 - 🎮 I'm majoring in Game Development
 - ⚛️ I'm a MERN stack Web Developer
-- ⚡ I’m currently learning Data Structures and Algorithms
+- ⚡ I’m currently learning Flutter
 - 🥅 2021 Goals: Start Competitive Programming
 - ❤️ I love React JS, Cricket, Rap Music, and Game of Thrones, not necessarily in that order
 
