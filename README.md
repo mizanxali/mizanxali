@@ -5,7 +5,7 @@
 - 🎮 I'm majoring in Game Development
 - ⚛️ I build web apps using the MERN stack and mobile apps using Flutter
 - ⚡ I’m currently learning Microservices
-- ❤️ I love Web Dev, Cricket, Rap Music, and Game of Thrones, not necessarily in that order
+- ❤️ I love React, Flutter, Cricket, Rap Music, and Game of Thrones, not necessarily in that order
 
 
 ### Connect with me:
