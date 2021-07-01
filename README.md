@@ -3,10 +3,9 @@
 ## I'm a junior year CS Engineering undergrad at VIT Bhopal University, India
 
 - 🎮 I'm majoring in Game Development
-- ⚛️ I'm a MERN stack Web Developer
-- ⚡ I’m currently learning Flutter
-- 🥅 2021 Goals: Start Competitive Programming
-- ❤️ I love React JS, Cricket, Rap Music, and Game of Thrones, not necessarily in that order
+- ⚛️ I build web apps using the MERN stack and mobile apps using Flutter
+- ⚡ I’m currently learning Microservices
+- ❤️ I love Web Dev, Cricket, Rap Music, and Game of Thrones, not necessarily in that order
 
 
 ### Connect with me:
